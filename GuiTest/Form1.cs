@@ -30,14 +30,14 @@ namespace GuiTest
             var directoryNode = new TreeNode(directInfo.Name);
             foreach (var directory in directInfo.GetDirectories())
                 directoryNode.Nodes.Add(CreateDirectoryNode(directory));
-            foreach (var file in directInfo.GetFiles())
-                directoryNode.Nodes.Add(new TreeNode(file.Name));
+           // foreach (var file in directInfo.GetFiles())
+             //   directoryNode.Nodes.Add(new TreeNode(file.Name));
             return directoryNode;
         }
 
         private void sourceView_AfterSelect(object sender, TreeViewEventArgs e)
         {
-            
+           // sourceView.Nodes.
         }
     }
 }

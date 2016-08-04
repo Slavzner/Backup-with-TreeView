@@ -1,0 +1,9 @@
+C:\Users\HelpDesk\Documents\Visual Studio 2015\Projects\GUI_Test\GuiTest\GuiTest\bin\Debug\GuiTest.exe.config
+C:\Users\HelpDesk\Documents\Visual Studio 2015\Projects\GUI_Test\GuiTest\GuiTest\bin\Debug\GuiTest.exe
+C:\Users\HelpDesk\Documents\Visual Studio 2015\Projects\GUI_Test\GuiTest\GuiTest\bin\Debug\GuiTest.pdb
+C:\Users\HelpDesk\Documents\Visual Studio 2015\Projects\GUI_Test\GuiTest\GuiTest\obj\Debug\GuiTest.csprojResolveAssemblyReference.cache
+C:\Users\HelpDesk\Documents\Visual Studio 2015\Projects\GUI_Test\GuiTest\GuiTest\obj\Debug\GuiTest.Form1.resources
+C:\Users\HelpDesk\Documents\Visual Studio 2015\Projects\GUI_Test\GuiTest\GuiTest\obj\Debug\GuiTest.Properties.Resources.resources
+C:\Users\HelpDesk\Documents\Visual Studio 2015\Projects\GUI_Test\GuiTest\GuiTest\obj\Debug\GuiTest.csproj.GenerateResource.Cache
+C:\Users\HelpDesk\Documents\Visual Studio 2015\Projects\GUI_Test\GuiTest\GuiTest\obj\Debug\GuiTest.exe
+C:\Users\HelpDesk\Documents\Visual Studio 2015\Projects\GUI_Test\GuiTest\GuiTest\obj\Debug\GuiTest.pdb

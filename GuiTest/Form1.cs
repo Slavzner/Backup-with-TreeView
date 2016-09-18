@@ -28,10 +28,18 @@ namespace GuiTest
         private static TreeNode CreateDirectoryNode(DirectoryInfo directInfo)
         {
             var directoryNode = new TreeNode(directInfo.Name);
-            foreach (var directory in directInfo.GetDirectories())
-                directoryNode.Nodes.Add(CreateDirectoryNode(directory));
-           // foreach (var file in directInfo.GetFiles())
-             //   directoryNode.Nodes.Add(new TreeNode(file.Name));
+            try
+            {
+                foreach (var directory in directInfo.GetDirectories())
+                    directoryNode.Nodes.Add(CreateDirectoryNode(directory));
+                // foreach (var file in directInfo.GetFiles())
+                //   directoryNode.Nodes.Add(new TreeNode(file.Name));
+               
+            }
+            catch
+            {
+
+            }
             return directoryNode;
         }
 

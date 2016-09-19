@@ -36,9 +36,9 @@ namespace GuiTest
                 //   directoryNode.Nodes.Add(new TreeNode(file.Name));
                
             }
-            catch
+            catch (System.UnauthorizedAccessException)
             {
-
+               
             }
             return directoryNode;
         }
